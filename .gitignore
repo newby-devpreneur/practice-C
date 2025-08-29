@@ -56,3 +56,6 @@ dkms.conf
 
 # Environment Variables
 *.env
+
+# Git Junk
+*FETCH_HEAD
