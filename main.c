@@ -3,7 +3,7 @@
 int main() {
 
   //Intro   
-    char introStmnt[40]  = "Your 'C' Program Says: \n\n"; 
+    char introStmnt[40]  = "\nYour 'C' Program Says: \n\n"; 
 
     printf("%s", introStmnt);
 

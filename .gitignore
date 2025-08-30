@@ -55,7 +55,12 @@ dkms.conf
 *.dwo
 
 # Environment Variables
-*.env
+*.env*
 
 # Git Junk
-*FETCH_HEAD
+FETCH_HEAD
+
+# VS code Pref.
+launch.json
+tasks.json
+/.vscode
