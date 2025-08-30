@@ -8,13 +8,13 @@ int main() {
     printf("%s", introStmnt);
 
   //Practice Program
-    double pi = 3.23423513534252;
-    double product = 3.33333333333333333;
-    double weight = 340.2342353531456;
+    
+  char name[] = "Collisopher";
+  char food[] = "Burgers & Fries";
 
-    printf("The value of PI is NOT '%.15lf'\n", pi);
-    printf("The answer to 3/10 is '%lf'\n", product);
-    printf("You are quite articulatley large at %lf pounds.. \n", weight);
+  printf("Hello, %s!\n", name);
+
+  printf("I heard your favorite food was %s? Suprising!\n", food);
 
 
     return 0;
